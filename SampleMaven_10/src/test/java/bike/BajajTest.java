@@ -18,5 +18,6 @@ public class BajajTest {
 		driver.get("https://www.bajajauto.com/bikes");
 		Reporter.log("Bajaj class executed", true);
 		Reporter.log("Bajaj class not executed", true);
+		Reporter.log("Bajaj bike commit to git",true);
 	}
 }
