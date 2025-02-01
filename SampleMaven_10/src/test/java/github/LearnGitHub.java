@@ -11,6 +11,7 @@ public class LearnGitHub {
 	public void learn()
 	{
 		Reporter.log("GitHub class Added", true);
+		Reporter.log("GitHub class",true);
 	}
 			
 }
