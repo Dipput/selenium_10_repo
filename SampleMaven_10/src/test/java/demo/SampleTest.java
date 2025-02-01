@@ -9,5 +9,6 @@ public class SampleTest {
 	public void launch()
 	{
 		Reporter.log("SampleTest class executed",true);
+		Reporter.log("Modified in GitHub", true);
 	}
 }
